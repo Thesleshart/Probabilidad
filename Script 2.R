@@ -27,4 +27,17 @@ varianza <- n*p*(1-p); varianza
 
 n_eje2 <- log(0.15)/log(0.99)
 round(n_eje2, 0)
+
+#ejemplo 3 (geometrica)
+dgeom(5-1,0.3)
+
+#R/ la probabilidad de que el primer solicitante con capacidad avanzada se encuentra en la quinta entrevista es de {a}
+
+
+
+
+
+
+
+
  
